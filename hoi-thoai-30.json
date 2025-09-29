@@ -1,105 +1,102 @@
-
 [
-{
-  "audio": "hoi-thoai-30-1.mp3",
-  "hinhanh": "hoi-thoai-30-1.jpg",
-  "hoithoai":[
-    {
-      "speaker": "왕민",
-      "korean": "여기가 우리 자리예요. 자야 씨는 한국에서 야구 경기장에 처음 왔지요?",
-      "vietnamese": "Đây là chỗ của chúng ta. Jaya, đây là lần đầu bạn đến sân bóng chày ở Hàn Quốc phải không?"
-    },
-    {
-      "speaker": "자야",
-      "korean": "네, 처음 왔어요. 그런데 경기장에 사람들이 많네요. 한국에서는 야구가 인기가 많은 것 같아요.",
-      "vietnamese": "Vâng, lần đầu tiên tôi đến. Mà ở sân nhiều người quá. Có vẻ bóng chày rất được yêu thích ở Hàn Quốc."
-    },
-    {
-      "speaker": "왕민",
-      "korean": "맞아요. 인기 있는 팀 경기는 표를 예매하는 게 힘들어요.",
-      "vietnamese": "Đúng vậy. Trận đấu của các đội nổi tiếng thì rất khó đặt vé."
-    },
-    {
-      "speaker": "자야",
-      "korean": "음식을 먹는 사람들도 많네요.",
-      "vietnamese": "Cũng có nhiều người đang ăn uống nữa."
-    },
-    {
-      "speaker": "왕민",
-      "korean": "네, 경기를 볼 때 음식을 먹으면 더 맛있어요. 우리도 치킨 먹을까요?",
-      "vietnamese": "Đúng rồi, vừa xem trận đấu vừa ăn sẽ ngon hơn. Chúng ta cũng ăn gà rán nhé?"
-    },
-    {
-      "speaker": "자야",
-      "korean": "좋아요. 제가 사 올게요.",
-      "vietnamese": "Được đấy. Tôi sẽ đi mua."
-    }
-  ],
-  "questions": [
-    {
-      "korean_question": "한국에서 인기 있는 스포츠는 뭐예요?",
-      "vietnamese_question": "Ở Hàn Quốc, môn thể thao nào được yêu thích?",
-      "korean_answer": "야구가 인기가 많아요.",
-      "vietnamese_answer": "Bóng chày rất được yêu thích."
-    },
-    {
-      "korean_question": "두 사람은 경기를 보면서 무엇을 먹으려고 해요?",
-      "vietnamese_question": "Hai người định ăn gì khi xem trận đấu?",
-      "korean_answer": "치킨을 먹으려고 해요.",
-      "vietnamese_answer": "Họ định ăn gà rán."
-    }
-  ]
- },
- {
-  "audio": "hoi-thoai-30-2.mp3",
-  "hinhanh": "hoi-thoai-30-2.jpg",
-  "hoithoai":{
-  "conversation": [
-    {
-      "speaker": "왕민",
-      "korean": "닛차난 씨 뭐 해요?",
-      "vietnamese": "Nitchanan, bạn đang làm gì vậy?"
-    },
-    {
-      "speaker": "닛차난",
-      "korean": "K-팝을 듣고 있어요.",
-      "vietnamese": "Tôi đang nghe K-pop."
-    },
-    {
-      "speaker": "왕민",
-      "korean": "그래요? 닛차난 씨는 K-팝을 정말 좋아하는 것 같아요.",
-      "vietnamese": "Thật vậy? Có vẻ như bạn rất thích K-pop."
-    },
-    {
-      "speaker": "닛차난",
-      "korean": "네, 맞아요. 고향에 있을 때부터 K-팝을 좋아했어요.",
-      "vietnamese": "Vâng, đúng vậy. Tôi đã thích K-pop từ khi còn ở quê nhà."
-    },
-    {
-      "speaker": "왕민",
-      "korean": "K-팝을 왜 좋아해요?",
-      "vietnamese": "Tại sao bạn thích K-pop?"
-    },
-    {
-      "speaker": "닛차난",
-      "korean": "K-팝은 가사가 재미있고 따라 부르기 쉬워요. 그리고 가수들이 단체로 춤을 추는 것이 멋있어요.",
-      "vietnamese": "Lời bài hát của K-pop rất thú vị và dễ hát theo. Ngoài ra, việc các ca sĩ nhảy theo nhóm cũng rất tuyệt."
-    }
-  ],
-  "questions": [
-    {
-      "korean_question": "닛차난 씨는 언제부터 K-팝을 좋아했어요?",
-      "vietnamese_question": "Nitchanan đã thích K-pop từ khi nào?",
-      "korean_answer": "고향에 있을 때부터 좋아했어요.",
-      "vietnamese_answer": "Từ khi còn ở quê nhà."
-    },
-    {
-      "korean_question": "닛차난 씨가 K-팝을 좋아하는 이유는 뭐예요?",
-      "vietnamese_question": "Lý do Nitchanan thích K-pop là gì?",
-      "korean_answer": "가사가 재미있고 따라 부르기 쉬우며 가수들이 단체로 춤을 추는 것이 멋있어요.",
-      "vietnamese_answer": "Vì lời bài hát thú vị, dễ hát theo và các ca sĩ nhảy theo nhóm rất đẹp mắt."
-    }
-  ]
- }
- ]
-
+  {
+    "audio": "hoi-thoai-30-1.mp3",
+    "hinhanh": "hoi-thoai-30-1.jpg",
+    "hoithoai": [
+      {
+        "speaker": "왕민",
+        "korean": "여기가 우리 자리예요. 자야 씨는 한국에서 야구 경기장에 처음 왔지요?",
+        "vietnamese": "Đây là chỗ của chúng ta. Jaya, đây là lần đầu bạn đến sân bóng chày ở Hàn Quốc phải không?"
+      },
+      {
+        "speaker": "자야",
+        "korean": "네, 처음 왔어요. 그런데 경기장에 사람들이 많네요. 한국에서는 야구가 인기가 많은 것 같아요.",
+        "vietnamese": "Vâng, lần đầu tiên tôi đến. Mà ở sân nhiều người quá. Có vẻ bóng chày rất được yêu thích ở Hàn Quốc."
+      },
+      {
+        "speaker": "왕민",
+        "korean": "맞아요. 인기 있는 팀 경기는 표를 예매하는 게 힘들어요.",
+        "vietnamese": "Đúng vậy. Trận đấu của các đội nổi tiếng thì rất khó đặt vé."
+      },
+      {
+        "speaker": "자야",
+        "korean": "음식을 먹는 사람들도 많네요.",
+        "vietnamese": "Cũng có nhiều người đang ăn uống nữa."
+      },
+      {
+        "speaker": "왕민",
+        "korean": "네, 경기를 볼 때 음식을 먹으면 더 맛있어요. 우리도 치킨 먹을까요?",
+        "vietnamese": "Đúng rồi, vừa xem trận đấu vừa ăn sẽ ngon hơn. Chúng ta cũng ăn gà rán nhé?"
+      },
+      {
+        "speaker": "자야",
+        "korean": "좋아요. 제가 사 올게요.",
+        "vietnamese": "Được đấy. Tôi sẽ đi mua."
+      }
+    ],
+    "questions": [
+      {
+        "korean_question": "한국에서 인기 있는 스포츠는 뭐예요?",
+        "vietnamese_question": "Ở Hàn Quốc, môn thể thao nào được yêu thích?",
+        "korean_answer": "야구가 인기가 많아요.",
+        "vietnamese_answer": "Bóng chày rất được yêu thích."
+      },
+      {
+        "korean_question": "두 사람은 경기를 보면서 무엇을 먹으려고 해요?",
+        "vietnamese_question": "Hai người định ăn gì khi xem trận đấu?",
+        "korean_answer": "치킨을 먹으려고 해요.",
+        "vietnamese_answer": "Họ định ăn gà rán."
+      }
+    ]
+  },
+  {
+    "audio": "hoi-thoai-30-2.mp3",
+    "hinhanh": "hoi-thoai-30-2.jpg",
+    "hoithoai": [
+      {
+        "speaker": "왕민",
+        "korean": "닛차난 씨 뭐 해요?",
+        "vietnamese": "Nitchanan, bạn đang làm gì vậy?"
+      },
+      {
+        "speaker": "닛차난",
+        "korean": "K-팝을 듣고 있어요.",
+        "vietnamese": "Tôi đang nghe K-pop."
+      },
+      {
+        "speaker": "왕민",
+        "korean": "그래요? 닛차난 씨는 K-팝을 정말 좋아하는 것 같아요.",
+        "vietnamese": "Thật vậy? Có vẻ như bạn rất thích K-pop."
+      },
+      {
+        "speaker": "닛차난",
+        "korean": "네, 맞아요. 고향에 있을 때부터 K-팝을 좋아했어요.",
+        "vietnamese": "Vâng, đúng vậy. Tôi đã thích K-pop từ khi còn ở quê nhà."
+      },
+      {
+        "speaker": "왕민",
+        "korean": "K-팝을 왜 좋아해요?",
+        "vietnamese": "Tại sao bạn thích K-pop?"
+      },
+      {
+        "speaker": "닛차난",
+        "korean": "K-팝은 가사가 재미있고 따라 부르기 쉬워요. 그리고 가수들이 단체로 춤을 추는 것이 멋있어요.",
+        "vietnamese": "Lời bài hát của K-pop rất thú vị và dễ hát theo. Ngoài ra, việc các ca sĩ nhảy theo nhóm cũng rất tuyệt."
+      }
+    ],
+    "questions": [
+      {
+        "korean_question": "닛차난 씨는 언제부터 K-팝을 좋아했어요?",
+        "vietnamese_question": "Nitchanan đã thích K-pop từ khi nào?",
+        "korean_answer": "고향에 있을 때부터 좋아했어요.",
+        "vietnamese_answer": "Từ khi còn ở quê nhà."
+      },
+      {
+        "korean_question": "닛차난 씨가 K-팝을 좋아하는 이유는 뭐예요?",
+        "vietnamese_question": "Lý do Nitchanan thích K-pop là gì?",
+        "korean_answer": "가사가 재미있고 따라 부르기 쉬우며 가수들이 단체로 춤을 추는 것이 멋있어요.",
+        "vietnamese_answer": "Vì lời bài hát thú vị, dễ hát theo và các ca sĩ nhảy theo nhóm rất đẹp mắt."
+      }
+    ]
+  }
+]
