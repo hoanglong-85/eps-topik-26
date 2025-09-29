@@ -1,0 +1,26 @@
+[{
+  "nguphap": "-는",
+  "loai": "동사 + -는",
+  "ynghia": "Được thêm vào động từ để bổ nghĩa cho danh từ phía sau, chỉ hành động đang xảy ra, lặp đi lặp lại hoặc là sự thật chung.",
+  "vidu": [
+    {"cau": "저기에서 사진을 찍는 사람이 왕민 씨예요.", "nghia": "Người đang chụp ảnh ở kia là Wang Min."},
+    {"cau": "스승의 날은 선생님께 감사의 마음을 전하는 날이에요.", "nghia": "Ngày Nhà giáo là ngày bày tỏ lòng biết ơn đến thầy cô."},
+    {"cau": "저는 가구 만드는 일을 해요.", "nghia": "Tôi làm công việc chế tạo đồ nội thất."},
+    {"cau": "공원에서 운동하는 사람들이 많아요.", "nghia": "Có nhiều người đang tập thể dục ở công viên."},
+    {"cau": "매일 아침에 커피를 마시는 사람이 많아요.", "nghia": "Có nhiều người uống cà phê mỗi sáng."}
+  ],
+  "luat": "Động từ + -는 để tạo thành dạng bổ nghĩa cho danh từ, chỉ hiện tại hoặc thói quen."
+},
+{
+  "nguphap": "-아/어 봤다",
+  "loai": "동사 + -아/어 봤다",
+  "ynghia": "Được thêm vào động từ để diễn tả đã có kinh nghiệm làm việc gì đó.",
+  "vidu": [
+    {"cau": "외국인노동자지원센터에서 상담을 받아 봤어요.", "nghia": "Tôi đã từng nhận tư vấn tại Trung tâm hỗ trợ lao động nước ngoài."},
+    {"cau": "예전에 통역 서비스를 이용해 봤는데 정말 편리했어요.", "nghia": "Tôi đã từng sử dụng dịch vụ phiên dịch trước đây và nó thật tiện lợi."},
+    {"cau": "기타를 쳐 봤어요?", "nghia": "Bạn đã từng chơi guitar chưa?"},
+    {"cau": "아니요, 안 쳐 봤어요.", "nghia": "Không, tôi chưa từng chơi."},
+    {"cau": "한국 음식을 만들어 봤어요.", "nghia": "Tôi đã từng nấu thử món ăn Hàn Quốc."}
+  ],
+  "luat": "Động từ + -아/어 봤다 để chỉ rằng chủ thể đã có kinh nghiệm thực hiện hành động đó."
+}]

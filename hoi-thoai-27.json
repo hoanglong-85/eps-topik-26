@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-27-1.mp3",
+  "hinhanh": "hoi-thoai-27-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마두",
+      "korean": "유진 씨, 같이 저녁 먹을래요?",
+      "vietnamese": "Yujin, bạn có muốn ăn tối cùng không?"
+    },
+    {
+      "speaker": "유진",
+      "korean": "미안해요. 내일이 어버이날이라서 선물 사러 가야 해요.",
+      "vietnamese": "Xin lỗi. Mai là Ngày Cha Mẹ nên mình phải đi mua quà."
+    },
+    {
+      "speaker": "마두",
+      "korean": "어버이날이요? 그게 무슨 날인데요?",
+      "vietnamese": "Ngày Cha Mẹ ạ? Đó là ngày gì vậy?"
+    },
+    {
+      "speaker": "유진",
+      "korean": "어버이날은 부모님께 감사의 마음을 전하는 날이에요. 이날 부모님께 꽃을 달아 드리고 선물도 드려요. 마두 씨 나라에도 어버이날이 있어요?",
+      "vietnamese": "Ngày Cha Mẹ là ngày bày tỏ lòng biết ơn đến cha mẹ. Vào ngày này, chúng tôi cài hoa và tặng quà cho cha mẹ. Ở nước của Madhu cũng có Ngày Cha Mẹ không?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 그렇지만 네팔에는 어머니날과 아버지의 날이 따로 있어요. 어버이날 이야기를 하니까 고향에 계시는 부모님이 보고 싶네요.",
+      "vietnamese": "Có, nhưng ở Nepal có Ngày của Mẹ và Ngày của Cha riêng biệt. Nói về Ngày Cha Mẹ làm mình nhớ cha mẹ ở quê nhà."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "유진 씨는 무엇을 하려고 해요?",
+      "vietnamese_question": "Yujin định làm gì?",
+      "korean_answer": "어버이날 선물을 사러 가려고 해요.",
+      "vietnamese_answer": "Đi mua quà cho Ngày Cha Mẹ."
+    },
+    {
+      "korean_question": "어버이날은 무슨 날이에요?",
+      "vietnamese_question": "Ngày Cha Mẹ là ngày gì?",
+      "korean_answer": "부모님께 감사의 마음을 전하는 날이에요.",
+      "vietnamese_answer": "Là ngày bày tỏ lòng biết ơn đến cha mẹ."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-27-2.mp3",
+  "hinhanh": "hoi-thoai-27-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "다라",
+      "korean": "자야 씨, 돌잔치에 가 봤어요?",
+      "vietnamese": "Jaya, bạn đã từng đi tiệc thôi nôi chưa?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "네, 동료의 아기 돌잔치에 가 봤어요.",
+      "vietnamese": "Rồi, mình đã từng đi thôi nôi của con đồng nghiệp."
+    },
+    {
+      "speaker": "다라",
+      "korean": "그래요? 저도 이번 주말에 돌잔치에 초대를 받았는데요. 한국의 돌잔치는 어때요?",
+      "vietnamese": "Vậy à? Cuối tuần này mình cũng được mời đi thôi nôi. Tiệc thôi nôi ở Hàn Quốc như thế nào?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "가족과 친구들이 아기의 첫 번째 생일을 축하하고 같이 밥도 먹어요.",
+      "vietnamese": "Gia đình và bạn bè cùng chúc mừng sinh nhật đầu tiên của em bé và cùng ăn uống."
+    },
+    {
+      "speaker": "다라",
+      "korean": "아기에게 선물을 하고 싶은데 자야 씨는 뭘 선물했어요?",
+      "vietnamese": "Mình muốn tặng quà cho em bé, Jaya đã tặng gì?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "저는 아기 옷하고 장난감을 사 줬는데 금반지를 주는 사람들도 있었어요.",
+      "vietnamese": "Mình đã mua quần áo em bé và đồ chơi, nhưng cũng có người tặng nhẫn vàng."
+    },
+    {
+      "speaker": "다라",
+      "korean": "그래요? 저도 예쁜 아기 옷을 선물하고 싶은데 자야 씨가 좀 도와줄래요?",
+      "vietnamese": "Vậy à? Mình cũng muốn tặng quần áo xinh cho em bé, Jaya có thể giúp mình không?"
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "돌잔치에서는 무엇을 해요?",
+      "vietnamese_question": "Ở tiệc thôi nôi người ta làm gì?",
+      "korean_answer": "가족과 친구들이 아기의 첫 번째 생일을 축하하고 같이 밥을 먹어요.",
+      "vietnamese_answer": "Gia đình và bạn bè chúc mừng sinh nhật đầu tiên của em bé và cùng ăn uống."
+    },
+    {
+      "korean_question": "자야 씨는 돌잔치에 가서 무엇을 선물했어요?",
+      "vietnamese_question": "Jaya đã tặng gì khi đi tiệc thôi nôi?",
+      "korean_answer": "아기 옷하고 장난감을 선물했어요.",
+      "vietnamese_answer": "Đã tặng quần áo em bé và đồ chơi."
+    }
+  ]
+ }
+ ]
+

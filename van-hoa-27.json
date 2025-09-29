@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "한국의 특별한 날",
+      "vietnamese": "Ngày đặc biệt của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "국경일은 나라에서 정한 특별한 날로, 역사적으로 뜻깊은 날을 기념하거나 경축하는 날입니다. 이러한 국경일에는 우리나라의 독립을 위해 만세를 부른 삼일절(3월 1일), 일본의 식민 지배로부터 해방된 것을 기념하는 광복절(8월 15일), 한민족의 첫 국가인 고조선의 개국을 경축하는 개천절(10월 3일), 그리고 세종대왕이 한글을 창제하신 것을 기념하는 한글날(10월 9일) 등이 해당합니다. 국경일은 법정공휴일로 지정되어 있으며, 각종 기념식과 경축 행사가 열립니다. 가정에서는 기쁨을 함께하기 위하여 국기를 게양합니다.",
+        "vietnamese": "Ngày quốc lễ là ngày đặc biệt do quốc gia quy định, là ngày kỷ niệm hoặc chúc mừng những ngày có ý nghĩa lịch sử. Các ngày quốc lễ gồm có: 삼일절 (1/3) – ngày tam nhật hô vạn tuế vì độc lập của đất nước, 광복절 (15/8) – kỷ niệm giải phóng khỏi sự cai trị của Nhật Bản, 개천절 (3/10) – kỷ niệm khai quốc của Gojoseon, và 한글날 (9/10) – kỷ niệm vua Sejong sáng tạo chữ Hangeul. Ngày quốc lễ được chỉ định là ngày nghỉ theo luật, có các lễ kỷ niệm và chúc mừng. Trong gia đình, người ta treo quốc kỳ để cùng chia sẻ niềm vui."
+      },
+      {
+        "korean": "한편으로 개인의 일생 중 축하하거나 애도하는 특별한 날도 있습니다. 먼저 돌은 아기가 태어난 지 1년이 되는 날로 가족과 친지들이 모여 아기의 1살 생일을 축하하고 건강하게 자랄 것을 염원하는 돌잔치를 합니다. 결혼도 중요한 일생의례로 예전에는 전통 방식의 혼례가 많았지만, 요즘에는 대부분 현대적인 결혼식을 합니다. 하지만 결혼식 후에 신랑 부모님과 친척들께 인사를 드리는 폐백과 같은 전통적인 풍습이 여전히 남아 있습니다.",
+        "vietnamese": "Mặt khác, trong đời sống cá nhân cũng có những ngày đặc biệt để chúc mừng hoặc tưởng niệm. Trước hết là 돌 – ngày em bé tròn 1 năm tuổi, gia đình và người thân tập trung để chúc mừng sinh nhật và cầu mong bé lớn lên khỏe mạnh. Hôn nhân cũng là một nghi lễ quan trọng; trước đây thường tổ chức theo truyền thống, nhưng hiện nay đa phần là lễ cưới hiện đại. Tuy nhiên, phong tục truyền thống như 폐백 – nghi lễ chào hỏi cha mẹ chú rể và người thân sau lễ cưới – vẫn được duy trì."
+      },
+      {
+        "korean": "가족이나 지인이 돌아가시면 보통 3일이나 5일 동안 장례를 치릅니다. 조문객은 검은색 옷을 입고 장례식장에 가서 돌아가신 분에 대한 묵념을 하거나 절을 하고 돌아가신 분의 가족들을 위로합니다. 또한 매년 조상이 돌아가신 날을 기일이라고 하여 가족들이 제사를 지냅니다. 요즘에는 제사의 형식도 다양화되어 추모 기도 등을 하기도 하지만 여전히 많은 가정에서 이날을 중요하게 여깁니다.",
+        "vietnamese": "Khi gia đình hoặc người quen qua đời, tang lễ thường được tổ chức trong 3 hoặc 5 ngày. Khách viếng mặc đồ đen đến nhà tang lễ để mặc niệm hoặc cúi lạy người đã khuất và an ủi gia quyến. Ngoài ra, ngày mất của tổ tiên hàng năm được gọi là ngày giỗ, gia đình tiến hành tế lễ. Hiện nay, hình thức tế lễ cũng đa dạng, có thể là cầu nguyện tưởng niệm, nhưng nhiều gia đình vẫn coi đây là ngày quan trọng."
+      }
+    ],
+    "voca": {
+      "경축하다": "Chúc mừng",
+      "만세를 부르다": "Hô vang 'Vạn tuế'",
+      "식민 지배": "Sự cai trị của thực dân",
+      "해방되다": "Được giải phóng",
+      "한민족": "Dân tộc Hàn Quốc",
+      "고조선": "Triều đại Cổ Triều Tiên",
+      "법정공휴일": "Ngày nghỉ theo luật",
+      "국기를 게양하다": "Treo quốc kỳ",
+      "애도하다": "Tỏ lòng thương tiếc",
+      "일생": "Cuộc đời",
+      "친지": "Người thân",
+      "염원하다": "Khao khát, ước mong",
+      "혼례": "Hôn lễ",
+      "폐백": "Nghi lễ chào hỏi gia đình nhà chồng",
+      "풍습": "Phong tục",
+      "지인": "Người quen, bạn bè",
+      "장례를 치르다": "Tổ chức tang lễ",
+      "조문객": "Khách viếng tang",
+      "장례식장": "Nhà tang lễ",
+      "묵념을 하다": "Mặc niệm"
+    }
+  }
+]
