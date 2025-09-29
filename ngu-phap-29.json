@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-(으)ㄹ 수 있다 / 없다",
+  "loai": "동사 + -(으)ㄹ 수 있다 / 없다",
+  "ynghia": "Được thêm vào động từ để chỉ khả năng hoặc khả thi của hành động. Nếu có khả năng/thực hiện được dùng ‘-(으)ㄹ 수 있다’, nếu không thì dùng ‘-(으)ㄹ 수 없다’.",
+  "vidu": [
+    {"cau": "저는 자전거를 탈 수 있어요.", "nghia": "Tôi có thể đi xe đạp."},
+    {"cau": "박물관에서 사진을 찍을 수 없어요.", "nghia": "Không thể chụp ảnh ở bảo tàng."},
+    {"cau": "목이 부어서 말을 할 수 없어요.", "nghia": "Vì bị đau họng nên không thể nói."},
+    {"cau": "기숙사에서 음식을 만들 수 있어요.", "nghia": "Có thể nấu ăn ở ký túc xá."},
+    {"cau": "전화할 수 있어요?", "nghia": "Có thể gọi điện không?"}
+  ],
+  "luat": "-(으)ㄹ 수 있다 / 없다 được thêm vào động từ để biểu thị khả năng hoặc khả thi của hành động. Nó khác với -(으)ㄹ 줄 알다 / 모르다, cái sau tập trung vào việc biết cách thực hiện hành động."
+},
+{
+  "nguphap": "-(으)면 안 되다",
+  "loai": "동사 / 형용사 + -(으)면 안 되다",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị rằng hành động hoặc trạng thái là bị cấm. Trái nghĩa với -아도/어도 되다 dùng để cho phép.",
+  "vidu": [
+    {"cau": "여기에서 사진을 찍으면 안 돼요.", "nghia": "Không được chụp ảnh ở đây."},
+    {"cau": "집 안에 신발을 신고 들어가면 안 돼요.", "nghia": "Không được đi giày vào trong nhà."},
+    {"cau": "작업 시간에 휴대폰을 사용하면 안 됩니다.", "nghia": "Không được dùng điện thoại trong giờ làm việc."},
+    {"cau": "가: 전화를 해야 하는데, 마두 씨 휴대폰을 좀 쓰면 안 돼요? 나: 네, 쓰세요.", "nghia": "A: Tôi cần gọi điện, Madou, tôi có thể dùng điện thoại một chút không? B: Được, hãy dùng."}
+  ],
+  "luat": "-(으)면 안 되다 khác với -(으)ㄹ 수 없다, cái trước nhấn mạnh cấm đoán, cái sau nhấn mạnh khả năng không thể thực hiện hành động."
+}]

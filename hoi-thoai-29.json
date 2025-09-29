@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-29-1.mp3",
+  "hinhanh": "hoi-thoai-29-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "아궁",
+      "korean": "마두 씨, 저는 여기에서 잠깐 담배 피우고 식당에 들어갈게요. 마두 씨 먼저 들어가세요.",
+      "vietnamese": "Madhu, tôi sẽ hút thuốc ở đây một chút rồi vào nhà hàng. Bạn vào trước đi."
+    },
+    {
+      "speaker": "마두",
+      "korean": "아궁 씨, 여기에서 담배를 피울 수 없어요.",
+      "vietnamese": "Agung, không được hút thuốc ở đây."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "네? 밖에서 담배를 피울 수 없어요?",
+      "vietnamese": "Hả? Không được hút thuốc ngoài trời sao?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 여기는 금연 구역이에요. 담배를 피우고 싶으면 흡연 구역에 가야 돼요.",
+      "vietnamese": "Đúng vậy, đây là khu vực cấm hút thuốc. Nếu muốn hút thuốc thì phải đến khu vực dành cho hút thuốc."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "그래요? 몰랐어요. 그럼 흡연 구역은 어디에 있어요?",
+      "vietnamese": "Vậy à? Tôi không biết. Thế khu vực hút thuốc ở đâu?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "여기에서 멀어요. 회사 근처에 있어요. 우리 밥부터 먹어요.",
+      "vietnamese": "Ở xa chỗ này. Gần công ty. Chúng ta ăn trước đã."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨와 마두 씨는 이제 뭘 할 거예요?",
+      "vietnamese_question": "Bây giờ Agung và Madhu sẽ làm gì?",
+      "korean_answer": "둘이 식당에 들어가서 밥을 먹을 거예요.",
+      "vietnamese_answer": "Hai người sẽ vào nhà hàng để ăn cơm."
+    },
+    {
+      "korean_question": "담배를 피울 수 있는 곳은 어디예요?",
+      "vietnamese_question": "Có thể hút thuốc ở đâu?",
+      "korean_answer": "회사 근처에 있는 흡연 구역에서 피울 수 있어요.",
+      "vietnamese_answer": "Có thể hút thuốc ở khu vực hút thuốc gần công ty."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-29-2.mp3",
+  "hinhanh": "hoi-thoai-29-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "프엉",
+      "korean": "왕민 씨, 한국에서는 식사할 때 밥그릇을 들고 먹으면 안 돼요.",
+      "vietnamese": "Wangmin, ở Hàn Quốc khi ăn không được cầm bát cơm lên."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "정말이에요? 저는 몰랐어요.",
+      "vietnamese": "Thật vậy sao? Tôi không biết."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "저도 처음에는 몰라서 실수를 많이 했어요.",
+      "vietnamese": "Lúc đầu tôi cũng không biết nên mắc nhiều lỗi."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "한국에서 식사할 때 지켜야 하는 예절이 또 있어요?",
+      "vietnamese": "Khi ăn ở Hàn Quốc còn có phép tắc nào khác cần tuân theo không?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "식사할 때 큰 소리를 내면 안 돼요. 또 코를 풀면 안 돼요.",
+      "vietnamese": "Khi ăn không được phát ra tiếng lớn. Cũng không được xì mũi."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "알겠어요. 고마워요.",
+      "vietnamese": "Tôi hiểu rồi. Cảm ơn nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 한국의 식사 예절 중 어떤 것을 지키지 않았어요?",
+      "vietnamese_question": "Trong các phép tắc ăn uống của Hàn Quốc, Wangmin đã không tuân theo điều gì?",
+      "korean_answer": "밥그릇을 들고 먹었어요.",
+      "vietnamese_answer": "Anh ấy đã cầm bát cơm lên khi ăn."
+    },
+    {
+      "korean_question": "한국의 식사 예절에는 무엇이 있어요?",
+      "vietnamese_question": "Có những phép tắc ăn uống nào ở Hàn Quốc?",
+      "korean_answer": "밥그릇을 들고 먹으면 안 되고, 식사할 때 큰 소리를 내면 안 되고, 코를 풀면 안 돼요.",
+      "vietnamese_answer": "Không được cầm bát cơm lên, không được phát ra tiếng lớn khi ăn và không được xì mũi."
+    }
+  ]
+ }
+ ]
+

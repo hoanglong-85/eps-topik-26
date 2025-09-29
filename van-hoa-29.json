@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "공공 생활 예절",
+      "vietnamese": "Phép xã giao trong sinh hoạt công cộng"
+    },
+    "data": [
+      {
+        "korean": "다른 사람에게 피해를 주지 않고, 서로 조화롭게 살기 위해서는 공공 생활 예절을 지켜야 합니다. 대중교통을 이용할 때는 큰 소리로 이야기하거나 시끄럽게 전화 통화를 해서는 안 됩니다. 그리고 교통 약자를 위해 지정된 자리에는 되도록 앉지 말아야 합니다. 버스나 지하철에서 다리를 벌리고 앉거나 냄새가 나는 음식을 먹는 것도 다른 사람에게 피해를 주는 행동입니다.",
+        "vietnamese": "Để không gây ảnh hưởng tới người khác và sống hòa hợp với nhau, bạn phải giữ phép tắc sinh hoạt nơi công cộng. Khi sử dụng phương tiện giao thông công cộng, không được nói chuyện lớn hoặc nói chuyện điện thoại ồn ào. Và khi tham gia giao thông bạn không nên ngồi ở vị trí được chỉ định dành cho người yếu. Ngồi dạng chân trên xe buýt hoặc tàu điện ngầm hoặc ăn thức ăn bốc mùi cũng là hành động gây ảnh hưởng tới người khác."
+      },
+      {
+        "korean": "아파트나 원룸 같은 공동 주택에 사는 경우에는 이웃에게 피해를 주지 않도록 더욱 신경을 써야 합니다. 집안에서는 되도록 뛰지 말아야 하고, 늦은 밤이나 이른 아침에 청소기나 세탁기를 사용해서는 안 됩니다. 음악이나 TV를 크게 틀어 놓는 것도 예의 없는 행동입니다. 특히 베란다나 화장실에서 담배를 피우는 행위는 이웃에게 피해를 줄 수 있기 때문에 항상 조심해야 합니다.",
+        "vietnamese": "Nếu bạn sống trong một căn hộ chung cư hoặc phòng đơn, bạn nên chú ý hơn để không gây ảnh hưởng tới hàng xóm. Không chạy trong nhà nếu có thể, không nên sử dụng máy hút bụi hoặc máy giặt vào đêm muộn hoặc sáng sớm. Việc bật nhạc hoặc TV to cũng là một hành động không lịch sự. Đặc biệt là ở ban công hay trong nhà vệ sinh bạn phải luôn cẩn thận vì hành vi hút thuốc có thể gây ảnh hưởng tới hàng xóm."
+      },
+      {
+        "korean": "한편 박물관이나 미술관 등 공공시설을 이용할 때는 항상 차례를 지켜 줄을 서고, 어르신이나 임산부를 먼저 배려하는 자세가 필요합니다.",
+        "vietnamese": "Mặt khác, khi sử dụng các cơ sở công cộng như bảo tàng hoặc triển lãm mỹ thuật, cần phải luôn xếp hàng theo thứ tự và quan tâm đến người lớn hoặc phụ nữ mang thai trước."
+      }
+    ],
+    "voca": {
+      "피해를 주다": "Gây hại, làm hại",
+      "조화롭다": "Hài hoà",
+      "시끄럽다": "Ồn ào",
+      "약자": "Người yếu thế",
+      "지정되다": "Được chỉ định, được quy định",
+      "다리를 벌리고 앉다": "Ngồi dạng chân",
+      "냄새가 나다": "Bốc mùi, có mùi",
+      "이웃": "Hàng xóm, láng giềng",
+      "신경을 쓰다": "Để ý, bận tâm",
+      "뛰다": "Chạy nhảy",
+      "TV를 크게 틀다": "Bật tivi với âm lượng lớn",
+      "베란다": "Ban công, hiên",
+      "행위": "Hành vi",
+      "공공시설": "Cơ sở hạ tầng công cộng",
+      "차례를 지키다": "Tuân theo thứ tự",
+      "임산부": "Phụ nữ mang thai",
+      "배려하다": "Quan tâm (đến ai)",
+      "자세": "Tư thế, thái độ, cách cư xử",
+      "술": "Rượu",
+      "흔들다": "Rung, lắc"
+    }
+  }
+]
