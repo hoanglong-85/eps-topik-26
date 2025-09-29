@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-26-1.mp3",
+  "hinhanh": "hoi-thoai-26-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "디안",
+      "korean": "집이 정말 예쁘네요. 집 구경 좀 해도 돼요?",
+      "vietnamese": "Nhà của anh/chị thật đẹp. Tôi có thể tham quan một chút không?"
+    },
+    {
+      "speaker": "과장",
+      "korean": "그럼요. 천천히 구경하세요.",
+      "vietnamese": "Tất nhiên rồi. Cứ từ từ tham quan nhé."
+    },
+    {
+      "speaker": "디안",
+      "korean": "과장님은 왜 한옥에서 살아요?",
+      "vietnamese": "Tại sao anh/chị lại sống trong nhà Hanok?"
+    },
+    {
+      "speaker": "과장",
+      "korean": "작년 여름까지는 아파트에서 살았어요. 그런데 너무 답답해서 이 집으로 이사했어요. 마당이 넓고 나무가 많아서 마음에 들었어요.",
+      "vietnamese": "Tôi đã sống trong căn hộ đến mùa hè năm ngoái. Nhưng tôi cảm thấy quá ngột ngạt nên đã chuyển đến ngôi nhà này. Tôi thích vì sân rộng và có nhiều cây."
+    },
+    {
+      "speaker": "디안",
+      "korean": "한옥은 마당이 있어서 참 좋네요. 마당에 나가 봐도 돼요?",
+      "vietnamese": "Nhà Hanok thật tuyệt vì có sân. Tôi có thể ra sân được không?"
+    },
+    {
+      "speaker": "과장",
+      "korean": "그럼요. 날씨가 좋으니까 우리 마당에서 차를 마셔요.",
+      "vietnamese": "Tất nhiên. Thời tiết đẹp nên chúng ta hãy uống trà ngoài sân nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "과장님은 어디에서 살아요?",
+      "vietnamese_question": "Quản lý đang sống ở đâu?",
+      "korean_answer": "한옥에서 살아요.",
+      "vietnamese_answer": "Sống trong nhà Hanok."
+    },
+    {
+      "korean_question": "과장님은 아파트에서 사는 것을 왜 좋아하지 않았어요?",
+      "vietnamese_question": "Tại sao quản lý không thích sống trong căn hộ?",
+      "korean_answer": "아파트가 너무 답답해서 싫어했어요.",
+      "vietnamese_answer": "Vì căn hộ quá ngột ngạt nên không thích."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-26-2.mp3",
+  "hinhanh": "hoi-thoai-26-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": "왕민 씨, 중국에서도 생일에 미역국을 먹어요?",
+      "vietnamese": "Wangmin, ở Trung Quốc cũng ăn canh rong biển vào ngày sinh nhật à?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "아니요, 한국에서는 생일에 미역국을 먹는데 중국에서는 국수를 먹어요. 국수는 생일에도 먹고 결혼식 날에도 먹어요.",
+      "vietnamese": "Không, ở Hàn Quốc ăn canh rong biển vào sinh nhật, nhưng ở Trung Quốc thì ăn mì. Mì được ăn cả vào sinh nhật và ngày cưới."
+    },
+    {
+      "speaker": "진수",
+      "korean": "예전에는 한국에서도 결혼식 날 국수를 먹었어요. 결혼식에서 손님들에게 국수를 대접했어요.",
+      "vietnamese": "Ngày xưa ở Hàn Quốc cũng ăn mì vào ngày cưới. Trong đám cưới người ta đãi khách bằng mì."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "그래요? 한국에서도 국수는 좋은 날 먹는 음식이네요.",
+      "vietnamese": "Vậy à? Ở Hàn Quốc mì cũng là món ăn trong những ngày vui."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "중국에서는 생일에 뭘 먹어요?",
+      "vietnamese_question": "Ở Trung Quốc ăn gì vào ngày sinh nhật?",
+      "korean_answer": "국수를 먹어요.",
+      "vietnamese_answer": "Ăn mì."
+    },
+    {
+      "korean_question": "한국과 중국에서 국수는 언제 먹는 음식이에요?",
+      "vietnamese_question": "Ở Hàn Quốc và Trung Quốc mì được ăn vào những dịp nào?",
+      "korean_answer": "한국에서는 예전에 결혼식 날 먹었고, 중국에서는 생일과 결혼식 날 먹어요.",
+      "vietnamese_answer": "Ở Hàn Quốc ngày xưa ăn vào ngày cưới, còn ở Trung Quốc ăn vào sinh nhật và ngày cưới."
+    }
+  ]
+ }
+ ]
+

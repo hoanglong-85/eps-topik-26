@@ -1,0 +1,217 @@
+[
+    {
+        "korean": " 주거 ",
+        "vietnamese": " Chỗ ở\r",
+        "audio": "tu-vung-26-1.mp3"
+    },
+    {
+        "korean": " 문화 ",
+        "vietnamese": " Văn hóa\r",
+        "audio": "tu-vung-26-2.mp3"
+    },
+    {
+        "korean": " 지붕 ",
+        "vietnamese": " Mái\r",
+        "audio": "tu-vung-26-3.mp3"
+    },
+    {
+        "korean": " 마당 ",
+        "vietnamese": " Vườn\r",
+        "audio": "tu-vung-26-4.mp3"
+    },
+    {
+        "korean": " 대문 ",
+        "vietnamese": " Cổng\r",
+        "audio": "tu-vung-26-5.mp3"
+    },
+    {
+        "korean": " 담 ",
+        "vietnamese": " Bờ rào\r",
+        "audio": "tu-vung-26-6.mp3"
+    },
+    {
+        "korean": " 마루 ",
+        "vietnamese": " Hiên nhà\r",
+        "audio": "tu-vung-26-7.mp3"
+    },
+    {
+        "korean": " 방문 ",
+        "vietnamese": " Cửa phòng\r",
+        "audio": "tu-vung-26-8.mp3"
+    },
+    {
+        "korean": " 온돌 ",
+        "vietnamese": " Nền sưởi\r",
+        "audio": "tu-vung-26-9.mp3"
+    },
+    {
+        "korean": " 방바닥 ",
+        "vietnamese": " Nền phòng\r",
+        "audio": "tu-vung-26-10.mp3"
+    },
+    {
+        "korean": " 아파트 ",
+        "vietnamese": " Chung cư\r",
+        "audio": "tu-vung-26-11.mp3"
+    },
+    {
+        "korean": " 베란다 ",
+        "vietnamese": " Ban công\r",
+        "audio": "tu-vung-26-12.mp3"
+    },
+    {
+        "korean": " 거실 ",
+        "vietnamese": " Phòng khách\r",
+        "audio": "tu-vung-26-13.mp3"
+    },
+    {
+        "korean": " 현관 ",
+        "vietnamese": " Lối vào (hiên)\r",
+        "audio": "tu-vung-26-14.mp3"
+    },
+    {
+        "korean": " 현관문 ",
+        "vietnamese": " Cửa vào\r",
+        "audio": "tu-vung-26-15.mp3"
+    },
+    {
+        "korean": " 답답하다 ",
+        "vietnamese": " Bực bội, khó chịu\r",
+        "audio": "tu-vung-26-16.mp3"
+    },
+    {
+        "korean": " 마음에 들다 ",
+        "vietnamese": " Vừa lòng\r",
+        "audio": "tu-vung-26-17.mp3"
+    },
+    {
+        "korean": " 난방 ",
+        "vietnamese": " Sưởi ấm\r",
+        "audio": "tu-vung-26-18.mp3"
+    },
+    {
+        "korean": " 둘러보다 ",
+        "vietnamese": " Nhìn quanh\r",
+        "audio": "tu-vung-26-19.mp3"
+    },
+    {
+        "korean": " 한식 ",
+        "vietnamese": " Món Hàn\r",
+        "audio": "tu-vung-26-20.mp3"
+    },
+    {
+        "korean": " 반찬 ",
+        "vietnamese": " Thức ăn\r",
+        "audio": "tu-vung-26-21.mp3"
+    },
+    {
+        "korean": " 밥 ",
+        "vietnamese": " Cơm\r",
+        "audio": "tu-vung-26-22.mp3"
+    },
+    {
+        "korean": " 국 ",
+        "vietnamese": " Canh\r",
+        "audio": "tu-vung-26-23.mp3"
+    },
+    {
+        "korean": " 숟가락 ",
+        "vietnamese": " Thìa\r",
+        "audio": "tu-vung-26-24.mp3"
+    },
+    {
+        "korean": " 젓가락 ",
+        "vietnamese": " Đũa\r",
+        "audio": "tu-vung-26-25.mp3"
+    },
+    {
+        "korean": " 깍두기 ",
+        "vietnamese": " Củ cải muối\r",
+        "audio": "tu-vung-26-26.mp3"
+    },
+    {
+        "korean": " 김 ",
+        "vietnamese": " Rong biển khô\r",
+        "audio": "tu-vung-26-27.mp3"
+    },
+    {
+        "korean": " 생선구이 ",
+        "vietnamese": " Cá nướng\r",
+        "audio": "tu-vung-26-28.mp3"
+    },
+    {
+        "korean": " 생일 ",
+        "vietnamese": " Sinh nhật\r",
+        "audio": "tu-vung-26-29.mp3"
+    },
+    {
+        "korean": " 정월대보름 ",
+        "vietnamese": " Rằm tháng Giêng\r",
+        "audio": "tu-vung-26-30.mp3"
+    },
+    {
+        "korean": " 동지 ",
+        "vietnamese": " Đông chí\r",
+        "audio": "tu-vung-26-31.mp3"
+    },
+    {
+        "korean": " 복날 ",
+        "vietnamese": " Hạ chí\r",
+        "audio": "tu-vung-26-32.mp3"
+    },
+    {
+        "korean": " 미역국 ",
+        "vietnamese": " Canh rong biển\r",
+        "audio": "tu-vung-26-33.mp3"
+    },
+    {
+        "korean": " 오곡밥 ",
+        "vietnamese": " Cơm ngũ cốc\r",
+        "audio": "tu-vung-26-34.mp3"
+    },
+    {
+        "korean": " 팥죽 ",
+        "vietnamese": " Cháo đậu đỏ\r",
+        "audio": "tu-vung-26-35.mp3"
+    },
+    {
+        "korean": " 삼계탕 ",
+        "vietnamese": " Gà hầm sâm\r",
+        "audio": "tu-vung-26-36.mp3"
+    },
+    {
+        "korean": " 예전 ",
+        "vietnamese": " Ngày xưa\r",
+        "audio": "tu-vung-26-37.mp3"
+    },
+    {
+        "korean": " 포크 ",
+        "vietnamese": " Dĩa\r",
+        "audio": "tu-vung-26-38.mp3"
+    },
+    {
+        "korean": " 특별하다 ",
+        "vietnamese": " Đặc biệt\r",
+        "audio": "tu-vung-26-39.mp3"
+    },
+    {
+        "korean": " 날 ",
+        "vietnamese": " Ngày\r",
+        "audio": "tu-vung-26-40.mp3"
+    },
+    {
+        "korean": " 생선회 ",
+        "vietnamese": " Gỏi cá\r",
+        "audio": "tu-vung-26-41.mp3"
+    },
+    {
+        "korean": " 죽 ",
+        "vietnamese": " Cháo\r",
+        "audio": "tu-vung-26-42.mp3"
+    },
+    {
+        "korean": " 대접하다 ",
+        "vietnamese": " Đối đãi",
+        "audio": "tu-vung-26-43.mp3"
+    }
+]

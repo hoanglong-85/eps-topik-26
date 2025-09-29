@@ -1,0 +1,26 @@
+[{
+  "nguphap": "-아도/어도 되다",
+  "loai": "동사/형용사 + -아도/어도 되다",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị sự cho phép thực hiện một hành động hoặc trạng thái nào đó.",
+  "vidu": [
+    {"cau": "이 빵을 먹어도 돼요?", "nghia": "Tôi có thể ăn cái bánh này không?"},
+    {"cau": "방바닥에 앉아야 돼요?", "nghia": "Có phải ngồi trên sàn phòng không?"},
+    {"cau": "아니요, 소파에 앉아도 돼요.", "nghia": "Không, bạn có thể ngồi trên ghế sofa."},
+    {"cau": "운동해도 돼요?", "nghia": "Tôi có thể tập thể dục không?"},
+    {"cau": "책을 빌려도 돼요?", "nghia": "Tôi có thể mượn sách không?"}
+  ],
+  "luat": "Động từ/tính từ + -아도 되다 nếu thân từ có nguyên âm ㅏ hoặc ㅗ, + -어도 되다 nếu các nguyên âm khác; + -해도 되다 nếu là động từ + 하다."
+},
+{
+  "nguphap": "-는데/(으)ㄴ데 (대조)",
+  "loai": "동사/형용사 + -는데/(으)ㄴ데",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để chỉ rằng nội dung phía sau trình bày một tình huống hoặc kết quả trái ngược với nội dung trước đó.",
+  "vidu": [
+    {"cau": "떡볶이는 매운데 김밥은 안 매워요.", "nghia": "Bánh gạo cay nhưng kimbap thì không cay."},
+    {"cau": "이번 주는 바쁜데 다음 주는 한가해요.", "nghia": "Tuần này bận nhưng tuần sau thì rảnh."},
+    {"cau": "토요일은 출근하는데 일요일은 출근을 안 해요.", "nghia": "Thứ bảy đi làm, nhưng chủ nhật thì không."},
+    {"cau": "영화는 재미있는데 책은 재미없어요.", "nghia": "Phim thì thú vị nhưng sách thì không."},
+    {"cau": "날씨는 춥는데 바람이 많이 불어요.", "nghia": "Thời tiết lạnh nhưng gió thổi rất mạnh."}
+  ],
+  "luat": "Động từ/‘있다’/‘없다’ + -는데, tính từ có 받침 + -은데, tính từ không có 받침 hoặc kết thúc bằng ㄹ + -ㄴ데."
+}]
