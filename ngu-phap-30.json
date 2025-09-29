@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-는/(으)ㄴ 것 같다",
+  "loai": "동사 / 형용사 + -는/(으)ㄴ 것 같다",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để suy đoán về hành động hoặc trạng thái hiện tại, hoặc dùng để nói ý kiến một cách nhẹ nhàng, lịch sự.",
+  "vidu": [
+    {"cau": "지금 비가 오는 것 같아요.", "nghia": "Có vẻ bây giờ đang mưa."},
+    {"cau": "저 선수는 인기가 많은 것 같아요.", "nghia": "Có vẻ vận động viên đó rất được yêu thích."},
+    {"cau": "자야 씨가 요즘 많이 바쁜 것 같아요.", "nghia": "Có vẻ Jaya dạo này rất bận."}
+  ],
+  "luat": "Động từ/있다/없다 + -는 것 같다; Tính từ + -은 것 같다 nếu có 받침, -ㄴ 것 같다 nếu không có 받침 ㄹ."
+},
+{
+  "nguphap": "-기 쉽다 / 어렵다",
+  "loai": "동사 + -기 + 형용사",
+  "ynghia": "Được thêm vào động từ để diễn tả hành động đó dễ hay khó thực hiện. Ngoài ra -기 còn có thể kết hợp với tính từ như 좋다, 싫다, 편하다, 불편하다.",
+  "vidu": [
+    {"cau": "월세가 싼 집을 구하기 어려워요.", "nghia": "Tìm nhà có tiền thuê rẻ thì khó."},
+    {"cau": "만들기 쉬운 음식이 뭐예요?", "nghia": "Món ăn dễ nấu là gì?"},
+    {"cau": "한국어로 문자 메시지를 보내기 어려워요.", "nghia": "Gửi tin nhắn bằng tiếng Hàn thì khó."},
+    {"cau": "이 공원은 산책하기 좋아요.", "nghia": "Công viên này đi dạo thì thích."},
+    {"cau": "이 옷은 입기 편해요.", "nghia": "Bộ quần áo này mặc thì thoải mái."}
+  ],
+  "luat": "-기 kết hợp với động từ + 형용사 để diễn tả mức độ dễ hoặc khó. Có thể thay -기 bằng -는 것이 trong câu."
+}]

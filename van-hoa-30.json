@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "한류 문화",
+      "vietnamese": "Văn hóa Hallyu"
+    },
+    "data": [
+      {
+        "korean": "한류는 한국의 음악, 드라마, 영화, 패션, 뷰티 등의 다양한 콘텐츠가 세계 여러 국가에서 사랑받고 소비되는 것을 의미하는데, 한국 문화의 다양성과 매력을 세계에 알리는 데 큰 역할을 합니다.",
+        "vietnamese": "Hallyu là làn sóng Hàn Quốc, có nghĩa là các nội dung đa dạng như âm nhạc, phim truyền hình, phim ảnh, thời trang, sắc đẹp của Hàn Quốc được yêu thích và tiêu thụ ở nhiều quốc gia trên thế giới, đóng vai trò lớn trong việc cho thế giới biết sự đa dạng và sức hút của văn hóa Hàn Quốc."
+      },
+      {
+        "korean": "K-팝(K-pop)은 다양한 음악 장르와 멋진 안무, 화려한 무대로 사랑을 받고 있습니다. 비티에스(BTS), 블랙핑크(BLACKPINK), 뉴진스(NEW JEANS) 등의 아이돌 그룹이 해외에서 큰 인기를 끌며 한류의 중심이 되고 있습니다. K-드라마(K-drama)는 흥미진진한 이야기, 배우의 실감 나는 연기, 아름다운 영상 등으로 큰 인기를 얻고 있습니다. '도깨비', '미스터 션샤인', '태양의 후예', '오징어 게임' 등이 대표적인 작품입니다.",
+        "vietnamese": "K-pop đang nhận được sự yêu thích với nhiều thể loại âm nhạc đa dạng, vũ đạo tuyệt vời và sân khấu rực rỡ. Các nhóm nhạc thần tượng như BTS, Blackpink và New Jeans đang trở thành tâm điểm của làn sóng Hàn Quốc khi thu hút sự chú ý lớn ở nước ngoài. K-drama đang nhận được sự yêu thích lớn với những câu chuyện thú vị, diễn xuất chân thực của diễn viên và những thước phim đẹp. Các tác phẩm tiêu biểu như 'Goblin', 'Mr. Sunshine', 'Hậu duệ mặt trời', 'Trò chơi con mực'..."
+      },
+      {
+        "korean": "또한 한국의 패션과 뷰티도 인기를 얻고 있는데, 특히 한국 K-팝 아이돌의 패션 스타일과 메이크업이 세계적인 트렌드를 이끌고 있습니다. 한국의 스킨케어 제품은 한국 여행에서 꼭 구매하는 물품 중의 하나가 되었습니다.",
+        "vietnamese": "Ngoài ra, thời trang và thẩm mỹ của Hàn Quốc cũng đang trở nên phổ biến, đặc biệt phong cách thời trang và trang điểm của thần tượng K-pop Hàn Quốc đang dẫn đầu xu hướng toàn cầu. Sản phẩm chăm sóc da của Hàn Quốc đã trở thành một trong những mặt hàng nhất định phải mua khi du lịch Hàn Quốc."
+      }
+    ],
+    "voca": {
+      "패션": "Mốt, thời trang",
+      "뷰티": "Làm đẹp, sắc đẹp",
+      "콘텐츠": "Nội dung",
+      "소비되다": "Được dùng, tiêu hao",
+      "매력": "Sức hấp dẫn",
+      "역할하다": "Đóng vai trò",
+      "멋진 안무": "Vũ đạo ấn tượng",
+      "아이돌 그룹": "Nhóm nhạc thần tượng",
+      "인기를 끌다": "Thu hút",
+      "중심이 되다": "Trở thành trung tâm",
+      "흥미진진하다": "Đầy hứng thú",
+      "실감 나는 연기": "Diễn xuất chân thật",
+      "영상": "Video, hình ảnh động",
+      "인기를 얻다": "Được yêu thích",
+      "태양의 후예": "Hậu duệ mặt trời",
+      "오징어 게임": "Trò chơi con mực",
+      "작품": "Tác phẩm",
+      "패션 스타일": "Phong cách thời trang",
+      "메이크업": "Trang điểm",
+      "세계적": "Mang tính quốc tế, toàn cầu"
+    }
+  }
+]
