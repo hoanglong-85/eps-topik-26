@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-28-1.mp3",
+  "hinhanh": "hoi-thoai-28-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": "닛차난 씨, 연휴 때 뭐 했어요?",
+      "vietnamese": "Nitchanan, bạn đã làm gì trong kỳ nghỉ dài?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "고향 친구들하고 같이 집에서 고향 음식을 만들어 먹었어요. 진수 씨는 설날에 뭐 했어요?",
+      "vietnamese": "Mình đã cùng bạn bè đồng hương nấu và ăn món ăn quê ở nhà. Jinsu, bạn đã làm gì vào Tết?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "저는 할아버지 댁에 갔어요. 차례를 지내고 나서 떡국을 먹었어요.",
+      "vietnamese": "Mình đã đến nhà ông. Sau khi làm lễ cúng tổ tiên, mình đã ăn canh bánh gạo (tteokguk)."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "떡국이 뭐예요?",
+      "vietnamese": "Tteokguk là gì vậy?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "떡국은 한국 사람들이 설날에 먹는 음식이에요. 닛차난 씨는 떡국을 안 먹어 봤지요? 다음에 우리 집에서 같이 떡국을 만들어 먹어요.",
+      "vietnamese": "Tteokguk là món người Hàn ăn vào Tết. Nitchanan chưa ăn thử đúng không? Lần sau cùng nấu và ăn ở nhà mình nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "닛차난 씨는 설날에 뭐 했어요?",
+      "vietnamese_question": "Nitchanan đã làm gì vào Tết?",
+      "korean_answer": "고향 친구들과 함께 집에서 고향 음식을 만들어 먹었어요.",
+      "vietnamese_answer": "Đã cùng bạn bè đồng hương nấu và ăn món ăn quê ở nhà."
+    },
+    {
+      "korean_question": "진수 씨는 설날에 뭐 했어요?",
+      "vietnamese_question": "Jinsu đã làm gì vào Tết?",
+      "korean_answer": "할아버지 댁에 가서 차례를 지내고 떡국을 먹었어요.",
+      "vietnamese_answer": "Đã đến nhà ông, làm lễ cúng tổ tiên và ăn canh bánh gạo (tteokguk)."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-28-2.mp3",
+  "hinhanh": "hoi-thoai-28-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": "이번 추석에 우리 할머니 댁에 같이 갈래요? 할머니 댁에 가서 할머니도 뵙고 송편도 만들어 먹어요.",
+      "vietnamese": "Trung thu này bạn có muốn đi cùng mình đến nhà bà không? Đến đó thăm bà và cùng làm bánh songpyeon nhé."
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 좋아요. 그런데 송편이 뭐예요?",
+      "vietnamese": "Vâng, hay đấy. Nhưng songpyeon là gì vậy?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "한국 사람들이 추석에 먹는 떡이에요. 한국에서는 추석 전날에 가족들이 같이 모여서 송편을 만들어요.",
+      "vietnamese": "Đó là loại bánh gạo người Hàn ăn vào dịp Trung thu. Ở Hàn Quốc, vào ngày trước Trung thu, gia đình sẽ cùng nhau làm songpyeon."
+    },
+    {
+      "speaker": "마두",
+      "korean": "좋아요. 그런데 대리님은 송편을 만들 줄 알아요?",
+      "vietnamese": "Hay quá. Nhưng anh Jinsu có biết làm songpyeon không?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "저는 만들 줄 몰라요. 할머니하고 어머니께서 만드실 거예요.",
+      "vietnamese": "Mình thì không biết làm. Bà và mẹ mình sẽ làm."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 추석에 뭐 할 거예요?",
+      "vietnamese_question": "Madhu sẽ làm gì vào dịp Trung thu?",
+      "korean_answer": "진수 씨 할머니 댁에 가서 할머니도 뵙고 송편을 만들 거예요.",
+      "vietnamese_answer": "Sẽ đến nhà bà của Jinsu, thăm bà và làm bánh songpyeon."
+    },
+    {
+      "korean_question": "진수 씨는 송편을 만들 줄 알아요?",
+      "vietnamese_question": "Jinsu có biết làm bánh songpyeon không?",
+      "korean_answer": "아니요, 만들 줄 몰라요. 할머니하고 어머니께서 만드실 거예요.",
+      "vietnamese_answer": "Không, Jinsu không biết làm. Bà và mẹ của Jinsu sẽ làm."
+    }
+  ]
+ }
+ ]
+
